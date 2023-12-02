@@ -1,4 +1,4 @@
-<h1> Translate </h1>
+<h1> Translation </h1>
 
 This project is an application that performs translation among 113 different languages.
 
